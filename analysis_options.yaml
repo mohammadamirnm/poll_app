@@ -1,0 +1,16 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_single_quotes: true 
+    avoid_dynamic_calls: true
+    throw_in_finally: true
+    unnecessary_statements: true
+    unrelated_type_equality_checks: true
+    always_declare_return_types: true
+    always_specify_types: true
+    annotate_overrides: true
+    avoid_bool_literals_in_conditional_expressions: true
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    prefer_const_literals_to_create_immutables: true

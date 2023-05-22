@@ -1,0 +1,13 @@
+{
+    "label_network_failure": "Please check your network and try again.",
+    "label_survey_body": "Congratulations, you have been selected to participate in this study. Please complete the survey and follow the instructions we have sent you by mail",
+    "title_survey": "Effects of the Healy on human emotions",
+    "label_terms_accept": "I've read and accept the ",
+    "label_terms_and_conditions": "Terms and Conditions",
+    "label_start": "Start",
+    "label_survey": "SURVEY",
+    "label_completed": "COMPLETED",
+    "label_next": "Next",
+    "label_close": "Close",
+    "label_retry": "Retry"
+}
